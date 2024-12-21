@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.din {
+    padding-left: 30%;
+    padding-right: 100px;
+}
+
+
+
+.ai label {
+    font-size: 20px;
+    width: 23px;
+    height: auto;
+    color: red;
+}
+
+.ai input {
+    width: 50%;
+    height: 25px;
+    padding-top: 8px;
+    margin-bottom:10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 6px red, 0 0 4px red , 0 0 3px red;
+    border-style: none;
+}
+
+
+.oll label {
+    font-size: 20px;
+    width: 22px;
+    height: auto;
+    color: blue;
+  
+}
+
+.oll input {
+    width: 50%;
+    height: 25px;
+    padding-top: 8px;
+    margin-bottom: 10px;
+    background-color: #FFF;
+    border-radius: 5px;
+    box-shadow: 0 0 6px blue, 0 0 4px blue , 0 0 3px blue;
+    border-style: none;
+}
+
+
+.olli label {
+    font-size: 20px;
+    width: 23px;
+    color: blueviolet;
+}
+
+.olli input {
+    width: 50%;
+    height: 25px;
+    padding-top: 8px;
+    margin-bottom: 10px;
+    background-color: #FFf;
+    border-radius: 5px;
+    box-shadow: 0 0 6px blueviolet, 0 0 4px blueviolet, 0 0 3px blueviolet;
+    border-style: none;
+
+}
+
+
+.medin label {
+    font-size: 20px;
+    width: 25px;
+    color: brown;
+    height: auto;
+}
+
+.medin input {
+    width: 50%;
+    height: 25px;
+    padding-top: 8px;
+    margin-bottom: 10px;
+    background-color: #FFF;
+    border-radius: 5px;
+    box-shadow: 0 0 6px blueviolet, 0 0 4px blueviolet, 0 0 3px blueviolet;
+    border-style: none;
+}
+
+
+.dion label {
+    font-size: 25px;
+    width: 24px;
+    color: yellowgreen;
+}
+
+.dion input {
+    width: 50%;
+    height: 25px;
+    padding-top: 8px;
+    margin-bottom: 10px;
+    background-color: #FFF;
+    border-radius: 5px;
+    box-shadow: 0 0 6px yellowgreen, 0 0 4px yellowgreen, 0 0 3px yellowgreen;
+    border-style: none;
+}
+
+.edi label {
+    font-size: 20px;
+    width: 23px;
+    color: gray;
+}
+
+.edi input {
+    width: 50%;
+    height: 25px;
+    padding-top: 8px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 6px grey, 0 0 4px gray, 0 0 3px gray;
+    border-style: none;
+}
+
+.btn input{
+    width: 50%;
+    height: 25px;
+    margin-left: 30px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    border-style: none;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.btn input :hover{
+    background-color: blue;
+    transform: scale(1.1);
+}
+
+.min{
+    margin-top: 100px;
+}     
+
+a{
+    text-emphasis: none;
+    width: 40%;
+    height: 30px;
+    background-color: blue;
+    border-radius: 10px;
+}
